@@ -1,0 +1,7 @@
+{
+    "replies": [
+        { "keyword": "halo", "balasan": "👋 Halo juga! Ketik *.menu* untuk lihat daftar fitur bot." },
+        { "keyword": "info", "balasan": "ℹ️ *BOT PREMIUM XSRMUL*\n\nBot ini dibuat oleh Owner Xsrmulz.\nKetik *.menu* untuk lihat semua fitur." },
+        { "keyword": "harga", "balasan": "💰 Hubungi Owner untuk informasi harga dan paket.\nKetik *.request* jika belum punya akses." }
+    ]
+}
